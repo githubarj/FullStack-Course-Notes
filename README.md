@@ -1,2 +1,2 @@
-# FulStack Development
+# FullStack Development
 My study notes
